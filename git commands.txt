@@ -1,0 +1,11 @@
+git commands:
+git init
+git add .
+git commit -m "your commit message"
+git push -u origin main
+git config --global user.name "Your Name"
+git config --global user.email "your@email.com"
+git checkout branchname
+git remote add origin https://github.com/username/repo.git
+git log
+
