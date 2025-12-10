@@ -1,11 +1,10 @@
-git commands:
 git init
+git config --global user.name "2400032443"
+git config --global user.email "2400032443@kluniversity.in"
 git add .
-git commit -m "your commit message"
+git commit -m "commited"
+git branch -M main
+git remote add origin https://github.com/2400032443/FSDPROJECT-1-10DEC.git
 git push -u origin main
-git config --global user.name "Your Name"
-git config --global user.email "your@email.com"
-git checkout branchname
-git remote add origin https://github.com/username/repo.git
+git checkout 
 git log
-
