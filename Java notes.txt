@@ -1,0 +1,12 @@
+Java Version:
+
+Java releases different versions like Java 8, 11, 17, and 21. Each version adds new features, improves performance, and fixes bugs. Java 8 introduced major features like lambda expressions, while Java 11 and Java 17 are long-term support versions commonly used in industry. The version installed on your system can be checked using the `java -version` command.
+JVM:
+The Java Virtual Machine (JVM) is responsible for running Java programs. It converts Java bytecode into machine code so the program can run on any operating system, making Java platform-independent. JVM also handles memory management and garbage collection.
+JRE:
+The Java Runtime Environment (JRE) includes the JVM and the libraries needed to run Java programs. It is used only for running Java applications and does not include development tools. People who only want to execute Java programs can use the JRE.
+JDK:
+The Java Development Kit (JDK) includes the JRE, JVM, and all development tools like the Java compiler (`javac`). It is required for writing, compiling, debugging, and running Java programs. Developers must install the JDK to create Java applications.
+Spring Tools Suite (STS) :
+Spring Tools Suite (STS) is an IDE built for developing Spring and Spring Boot applications. It comes with built-in Spring plugins, templates, and tools that make development easier. To download STS, go to spring.io/tools and download the ZIP file for your OS. Install it by extracting the ZIP and running the STS.exe file. After launching, you can create projects using "File → New → Spring Starter Project", select dependencies, and start coding. STS works best with JDK 17+ and at least 8 GB RAM.
+
